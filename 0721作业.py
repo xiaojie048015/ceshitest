@@ -29,3 +29,9 @@ print(a==b)
 # 判断 字符串”666”和整型666是否相等的结果并使用print输出
 c = '666'
 print(a ==c)
+
+print('hello word')
+
+print('are you OK')
+
+print('在提交一次')
