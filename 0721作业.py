@@ -31,3 +31,5 @@ c = '666'
 print(a ==c)
 
 print('hello word')
+
+print('are you OK')
